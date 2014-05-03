@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/68/trunk/test
+END
+try.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/61/trunk/test/try.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/32/trunk/test/__init__.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/68/trunk/test/test.py
+END

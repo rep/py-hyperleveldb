@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/68/trunk/versions
+END
+setup.py.patch
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/41/trunk/versions/setup.py.patch
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/68/trunk/versions/test.sh
+END
+download.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/68/trunk/versions/download.sh
+END
